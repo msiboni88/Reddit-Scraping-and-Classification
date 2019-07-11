@@ -41,4 +41,4 @@ Created a model which can predict the training data with 93.7% accuracy and the 
 
 #### Highlights 
 Coefficients and Counts of Most Predictive N-Grams
-![image6](https://github.com/msiboni88/Project_3-Reddit_Scraping/blob/master/Image6.png)
+![image6](https://github.com/msiboni88/Project_3-Reddit_Scraping/blob/master/image6.png)
