@@ -10,7 +10,7 @@ Scrape the text from subreddits r/thewestwing and r/Thenewsroom to create a mode
 
 #### Highlights
 Utilized Reddit API to pull posts. Initial cleaning of data to distill text and title from posts. 
-![image3](https://github.com/msiboni88/Project_3-Reddit_Scraping/blob/master/Image3.png)
+![image7](https://github.com/msiboni88/Project_3-Reddit_Scraping/blob/master/Image7.png)
 ![image1](https://github.com/msiboni88/Project_3-Reddit_Scraping/blob/master/Image1.png)
 ![image2](https://github.com/msiboni88/Project_3-Reddit_Scraping/blob/master/Image2.png)
 ![image4](https://github.com/msiboni88/Project_3-Reddit_Scraping/blob/master/Image4.png)
