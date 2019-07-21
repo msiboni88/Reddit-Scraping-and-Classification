@@ -1,4 +1,4 @@
-# Project 3 - Reddit Scraping
+# Reddit Scraping and Classification 
 Scrape the text from subreddits r/thewestwing and r/Thenewsroom to create a model to predict which subreddit a post came from
 
 ## [Scraping Notebook](https://github.com/msiboni88/Project_3-Reddit_Scraping/blob/master/Subreddit%20Web%20Scraping.ipynb)
